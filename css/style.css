@@ -521,7 +521,7 @@ hr.white{
     line-height: 1.6;
 }
 .lead-alt{
-    font-size: 46px;
+    font-size: 32px;
     font-weight: 600;
     line-height: 1.196;
     letter-spacing: -0.04em;
@@ -1387,9 +1387,10 @@ a.bg-video-button-muted{
 }
 .hs-line-7{
     margin-top: 0;
-    font-size: 72px;
+    font-size: 60px;
     font-weight: 600;
     line-height: 1.2;
+    color: #fff;
     letter-spacing: -0.03em;
 }
 .hs-line-8{
@@ -1786,7 +1787,7 @@ a.logo:hover{
     position: relative;
 }
 .inner-nav ul li a{
-    color: #555;
+    color: #fff;
     display: inline-block;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1797,7 +1798,7 @@ a.logo:hover{
 }
 .inner-nav ul li a:hover,
 .inner-nav ul li a.active{
-    color: #111;
+    color: #cdcdcd;
     opacity: 1;
     text-decoration: none;
 }
