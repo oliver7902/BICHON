@@ -231,7 +231,7 @@
         padding: 52px 10px 15px 10px;
     }
     .team-item-name{
-        font-size: 18px;
+        font-size: 14px;
     }
     
     .features-icon{
@@ -443,7 +443,7 @@
     }    
     .benefit-item:hover:after{
         display: none;
-    }       
+    }
     .wide-heading{
         font-size: 32px;
         letter-spacing: 2px;
