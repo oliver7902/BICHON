@@ -3093,13 +3093,13 @@ a.logo:hover{
 }
 .team-item-name{
     margin-top: 15px;
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 600;
     color: #111111;
 }
 .team-item-role{
     margin-top: 3px;
-    font-size: 17px;
+    font-size: 12px;
     font-weight: 400; /*500*/ 
     color: #111;
 }
@@ -3906,7 +3906,7 @@ a.logo:hover{
 }
 .work-process-title{
     margin-bottom: 15px;
-    font-size: 22px;
+    font-size: 16px;
     font-weight: 600;
     letter-spacing: -0.03em;
     -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
@@ -6277,4 +6277,66 @@ table.shopping-cart-table tr td{
     display: inline-block;
     -webkit-animation-duration: 1.2s;
     animation-duration: 1.2s;
+}
+
+.token_summary {
+  padding: 60px 0px 0 0;
+  width: 100%;
+}
+.token_summary2 {
+  width: 100%;
+  padding: 40px 0px 0 0;
+}
+
+.token_table_title {
+  max-width: 100%;
+  margin: 0 0 17px;
+  font-size: 16px;
+  line-height: 1.45;
+  text-align: center;
+  color: #fff;
+}
+
+.table_token {
+  width: 100%;
+    font-size: 16px;
+  max-width: 100%;
+  border-top: solid 2px #000;
+}
+.table_token th,
+.table_token td {
+  width: 5%;
+  padding: 10px 0 10px;
+    font-size: 16px;
+  font-weight: normal;
+  text-align: center;
+  border-bottom: solid 1px #000;
+}
+.table_token tr:last-child th,
+.table_token tr:last-child td {
+  border-bottom: 0;
+}
+.table_token td {
+  border-left: solid 1px #000;
+}
+.token_chart_contents {
+  margin: 0 0 107px;
+}
+.token_chart_contents li {
+  margin: 38px 0 0;
+}
+.token_chart_contents li:first-child {
+  margin-top: 0;
+}
+.token_chart_contents em {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 1.36;
+}
+.token_chart_contents p {
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 1.56;
 }
